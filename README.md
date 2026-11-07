@@ -39,13 +39,7 @@ Table: `HostelStudent`
 5. Run `HostelManagementApplication.java`.
 6. Test REST endpoints using Postman.
 
-# MSE–2 Assignments
-
-This repository contains the two assignments developed for the MSE–2 examination as part of the Java Programming course.
-
-## Projects Included
-
-### 1. Inventory Management System – JDBC with MySQL
+### 3. Inventory Management System – JDBC with MySQL
 
 **Course Outcome:** CO4
 
@@ -70,7 +64,7 @@ A menu-driven Java application developed using JDBC and MySQL to manage product 
 
 **Table:** `Product`
 
-### 2. Employee Management REST API – Spring Boot with MySQL
+### 4. Employee Management REST API – Spring Boot with MySQL
 
 **Course Outcome:** CO5
 
