@@ -1,0 +1,18 @@
+# Java compiled files
+*.class
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+
+# Environment and secrets
+.env
+application-local.properties
